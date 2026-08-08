@@ -52,13 +52,6 @@ I specialize in data analytics and machine learning, creating insights from data
 
 
 
-## 📊 GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KavinaGK&show_icons=true)
-
-🔗 GitHub Profile:  
-https://github.com/KavinaGK
-
 
 
 ## 🤝 Connect with Me
