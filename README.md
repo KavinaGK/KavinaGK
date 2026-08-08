@@ -49,6 +49,7 @@ I specialize in data analytics and machine learning, creating insights from data
 ## 🏆 Coding Profiles
 
 • HackerRank: [@24it0471](https://www.hackerrank.com/profile/24it0471)
+• Codechef : [kpr_24it047](https://www.codechef.com/users/kpr_24it047)
 
 
 
